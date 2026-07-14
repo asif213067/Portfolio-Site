@@ -51,7 +51,7 @@ portfolio-website/
 
 Visit my portfolio website:
 
-`(https://asif213067.github.io/Portfolio-Site/)`
+https://asif213067.github.io/Portfolio-Site/
 
 ---
 
